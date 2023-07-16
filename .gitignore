@@ -8,6 +8,8 @@
 /var/
 /vendor/
 /.idea/
+.idea/
+tests/
 ###< symfony/framework-bundle ###
 
 ###> phpunit/phpunit ###
